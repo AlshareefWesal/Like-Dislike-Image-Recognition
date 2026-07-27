@@ -1,12 +1,5 @@
 # Like-Dislike-Image-Recognition
 Image recognition model using Teachable Machine to classify Like and Dislike hand gestures.
-# Like-Dislike Image Recognition
-
-Like-Dislike Image Recognition is a simple image classification project
-developed using Google Teachable Machine. The model recognizes hand
-gestures and classifies them into two categories: Like and Dislike.
-After training, the model was exported in TensorFlow (Keras) format and
-tested using a Python script.
 
 ------------------------------------------------------------------------
 
